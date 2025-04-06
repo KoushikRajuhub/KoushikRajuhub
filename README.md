@@ -12,3 +12,10 @@ Hi there!!!<br>I'm Mechatronics Engineer with a passion for designing intelligen
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+ ![snake gif](https://github.com/KoushikRajuhub/KoushikRajuhub/blob/output/github-snake-dark.svg)
+
+</div>
+
+
